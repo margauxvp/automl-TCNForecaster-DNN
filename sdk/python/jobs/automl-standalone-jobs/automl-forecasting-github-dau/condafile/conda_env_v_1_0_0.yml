@@ -1,0 +1,21 @@
+channels:
+  - anaconda
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.7
+  - pip:
+      - azureml-train-automl-runtime==1.53.0
+      - inference-schema
+      - azureml-interpret==1.53.0
+      - azureml-defaults==1.53.0
+      - azureml-contrib-automl-dnn-forecasting==1.53.0.post1
+  - numpy
+  - pandas
+  - scikit-learn
+  - py-xgboost
+  - fbprophet
+  - holidays
+  - 'psutil>=5.2.2,<6.0.0'
+  - pytorch
+name: project_environment
