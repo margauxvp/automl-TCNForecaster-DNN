@@ -1,3 +1,0 @@
-[submodule "best-practices/largescale-deep-learning/Training/Bloom-Pretrain/src/Megatron-DeepSpeed"]
-	path = best-practices/largescale-deep-learning/Training/Bloom-Pretrain/src/Megatron-DeepSpeed
-	url = https://github.com/bigscience-workshop/Megatron-DeepSpeed.git
