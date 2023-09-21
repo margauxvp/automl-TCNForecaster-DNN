@@ -1,6 +1,0 @@
-{
-    "inputs": {
-        "audio": ["https://datasets-server.huggingface.co/assets/librispeech_asr/--/all/train.clean.100/84/audio/audio.mp3"],
-        "language": ["en"]
-    }
-}

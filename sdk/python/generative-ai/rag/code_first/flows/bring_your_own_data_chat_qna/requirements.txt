@@ -1,4 +1,0 @@
-promptflow[azure]
-promptflow-tools
-azureml-rag[faiss]
-azure-ai-ml
