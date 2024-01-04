@@ -1,3 +1,7 @@
+# Notebooks
+(Notebook 1)[https://github.com/margauxvp/automl-TCNForecaster-DNN/blob/main/v1/python-sdk/tutorials/automl-with-azureml/auto-ml-forecasting-github-dau.ipynb]: Build a TCNForecaster (DNN) model for GitHub DAU Forecasting 
+(Notebook 2)[https://github.com/margauxvp/automl-TCNForecaster-DNN/blob/main/sdk/python/jobs/automl-standalone-jobs/automl-forecasting-github-dau/auto-ml-github-dau-forecasting-batchendpoint.ipynb]: Forecasting using a batch endpoint
+
 # Introduction to TCNForecaster
 
 AutoML ships with a custom deep neural network (DNN) model called TCNForecaster. This model is a temporal convolutional network, or TCN. TCNForecaster has a DNN architecture specifically designed for time series data. It applies common imaging task methods to time series modeling. This way, it can predict future values based on past patterns. 
