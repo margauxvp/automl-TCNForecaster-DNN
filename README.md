@@ -12,9 +12,6 @@ A stack of dilated convolution layers that processes the channel array sequent
 A collection of forecast head units that coalesce the output signals from the convolution layers and generate forecasts of the target quantity from this latent representation. These take the patterns found in the convolutional stack and use them to make forecasts. Each head specializes in different aspects of the prediction. Each head unit produces forecasts up to the horizon for a quantile of the prediction distribution.
 
 Source: Deep learning with AutoML forecasting - Azure Machine Learning | Microsoft Learn
-![image](https://github.com/margauxvp/automl-TCNForecaster-DNN/assets/33750077/00f02d99-9ecb-4a80-a285-fe4470d07b1b)
-
-![image](https://github.com/margauxvp/automl-TCNForecaster-DNN/assets/33750077/eb1a0524-5c0d-4606-a396-e02b511506c2)
 
 
 **Advice on Endpoints**
@@ -39,7 +36,7 @@ A deployment is a set of resources and computes required for hosting the model
 
 To function properly, each endpoint must have at least one deployment. Endpoints and deployments are independent Azure Resource Manager resources that appear in the Azure portal.
 
-![image](https://github.com/margauxvp/automl-TCNForecaster-DNN/assets/33750077/60b23eb8-9b25-4114-a00f-dc0ba8e3b544)
+![image](https://github.com/margauxvp/automl-TCNForecaster-DNN/assets/33750077/df15bfb8-dec5-493f-8e0f-16d131902e1b)
 
 **More info:**
 
